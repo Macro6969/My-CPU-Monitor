@@ -1,0 +1,5 @@
+# Ignore the executable
+index
+# Ignore other common C build/IDE files
+*.o
+.vscode/
